@@ -35,7 +35,10 @@ Sparkify is a music app, this dataset contains two months of sparkify user behav
 ## Files Description<a name="files"></a>
 
 **Sprakify .html** Databricks notebook, main file of the project, it demonstrates the process of using pyspark to explore the data and build the model.
+
 **Sprakify .ipynb** Jupyter notebook output from Databricks, if you want to use local, AWS or IBM cloud to run, this file would be better to start. But since the notebook is designed for Databricks, **viewing it in GitHub will be very mess!**
+
+**medium-sparkify-event-data.json** Input data of the workflow, can be found in following [link](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/December/5c1d6681_medium-sparkify-event-data/medium-sparkify-event-data.json)
 
 ## Result
 
